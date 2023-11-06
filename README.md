@@ -1,4 +1,4 @@
-Getting Started
+
 Prerequisites
 Before you begin, make sure you have the following tools installed:
 
