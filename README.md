@@ -21,6 +21,8 @@ Usage
 Start the development server:
 
 ```ng serve```
+
+
 Open your web browser and go to http://localhost:4200/ to view the application.
 
 Enter a GitHub username in the input field to view user details, repositories, and their associated languages.
