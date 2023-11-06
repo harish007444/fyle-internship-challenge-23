@@ -7,7 +7,7 @@ Angular CLI
 Installation
 Clone the repository:
 
-`git clone https://github.com/yourusername/your-repo.git`
+```git clone https://github.com/yourusername/your-repo.git```
 Navigate to the project directory:
 
 cd your-repo
