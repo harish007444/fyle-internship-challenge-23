@@ -1,5 +1,5 @@
 
-#Prerequisites
+# Prerequisites
 Before you begin, make sure you have the following tools installed:
 
 Node.js and npm
